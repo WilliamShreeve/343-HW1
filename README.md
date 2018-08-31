@@ -11,3 +11,6 @@ If you want to make those changes final, you will have to merge your branch with
 Contributing to an existing project is often done with a pull request, which is a request to the owner of the repository to make some changes. They will get to review it before they decide whether or not to merge the pull with the current repository. Merging will commit and push the changes made from the pull.
 
 
+Personally, I have used Github for CIS263 most recently, which I took last semester. I have made commits to this repository with the test.txt file that is empty, just to show that I know the basics. I also used branches and check-outs to show my knowledge of them.
+
+
