@@ -8,6 +8,6 @@ Branching is good for creating states of the repository in case you need to reve
   
 If you want to make those changes final, you will have to merge your branch with the master branch using git merge, which will merge your current branch with the master.
 
-Contributing to an existing project is often done with a pull request, which is a request to the owner of the repository to make some changes. They will get to review it before they decide whether or not to merge the pull with the current repository.
+Contributing to an existing project is often done with a pull request, which is a request to the owner of the repository to make some changes. They will get to review it before they decide whether or not to merge the pull with the current repository. Merging will commit and push the changes made from the pull.
 
 
